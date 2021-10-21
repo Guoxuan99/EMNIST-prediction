@@ -1,6 +1,8 @@
 # EMNIST-prediction
 2020/2021 sem 2 - Neural Network Individual Assignment Project - EMNIST prediction - Predict and evaluate the output of model trained using multiple MLP model created by using the EMNIST datasets.
 
+This is a Handwritten Digit Recognition project, which the dataset is from EMNIST to train the model using different architecture of neural network models.
+
 Here are some of the sample shown in order to get a preview of how the EMNIST dataset is 
 
 ![sample dataset](https://user-images.githubusercontent.com/65883921/135121301-c0d4203d-6342-4385-acf8-770cfe82e15f.png)
